@@ -4,7 +4,7 @@
 
 WalletTown is a modern digital asset platform designed to deliver **speed, security, and scalability** in an ever-evolving financial landscape. Built with cutting-edge technology, WalletTown empowers users to manage, transact, and grow their digital assets seamlessly.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : E7oEk6HVTT1Zz3Gie7W867oabQ3ym8atGaRqBMGqpump
 ---
 
 ## 🚀 Vision
